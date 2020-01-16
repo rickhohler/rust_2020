@@ -1,0 +1,3 @@
+[submodule "wasm/samples/wasm-bindgen"]
+	path = wasm/samples/wasm-bindgen
+	url = https://github.com/rustwasm/wasm-bindgen.git
